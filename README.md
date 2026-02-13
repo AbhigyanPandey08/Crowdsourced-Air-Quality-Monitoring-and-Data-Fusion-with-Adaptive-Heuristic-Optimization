@@ -1,4 +1,4 @@
-# Crowdsourced-Air-Quality-Monitoring-and-Data-Fusion-with-Intelligent-Heuristic-Optimization
+# Crowdsourced-Air-Quality-Monitoring-and-Data-Fusion-with-Adaptive-Heuristic-Optimization
 
 Adaptive Data-Fusion and Heuristic Optimization for Reliable Air-Quality Monitoring from Crowdsourced Sensors
 
