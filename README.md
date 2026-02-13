@@ -1,9 +1,4 @@
-# -Crowdsourced-Air-Quality-Monitoring-and-Data-Fusion-with-Intelligent-Heuristic-Optimization
-Below is a clean, publication-grade GitHub README, written in the same style, tone, and structure as your sample, but fully aligned with your crowdsourced AQI data-fusion paper and suitable for EMS / Zenodo / reviewers.
-
-You can paste this directly into README.md.
-
-Crowdsourced-Air-Quality-Monitoring-and-Data-Fusion-with-Adaptive-Heuristic-Optimization
+# Crowdsourced-Air-Quality-Monitoring-and-Data-Fusion-with-Intelligent-Heuristic-Optimization
 
 Adaptive Data-Fusion and Heuristic Optimization for Reliable Air-Quality Monitoring from Crowdsourced Sensors
 
@@ -13,7 +8,7 @@ Authors
 
 Abhigyan Pandey¹, Arghya Chakraborty¹, Aditya Narayan¹, Maana Ajmera¹, Abhipsa Nayak¹
 
-Institutions
+Institution:
 
 ¹Department of Computer Science and Engineering, Rajiv Gandhi Institute of Petroleum Technology, Jais, Amethi, India
 
@@ -88,6 +83,6 @@ Dataset archived on Zenodo: Pandey, A., Chakraborty, A., Narayan, A., Ajmera, M.
 
 8. Simulated Annealing (robust refinement)
 
-Cross-City & Temporal Robustness Evaluation
-
-Explainability via Trust Weight Evolution
+9. Cross-City & Temporal Robustness Evaluation
+  
+10. Explainability via Trust Weight Evolution
